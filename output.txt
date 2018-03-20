@@ -1,0 +1,12 @@
+Equals: 55
+Equals: 3.40
+Equals: 3.20
+Equals: 1
+Parse error: syntax error
+Parse error: syntax error
+Parse error: syntax error
+Parse error: syntax error
+Parse error: syntax error
+Parse error: syntax error
+Parse error: syntax error
+Parse error: syntax error
